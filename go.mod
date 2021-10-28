@@ -1,3 +1,3 @@
-module gr
+module goreloaded
 
 go 1.16
